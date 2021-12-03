@@ -2,12 +2,9 @@
 
 <div align="center">
 
-###### 👋 Hello I'm front-end developer
-  
-  
+안녕하세요 사람이 좋은 인간 리트리버 신혜리입니다 🐶<br/>
 <br/>
-  
-  
+취미는 컴퓨터 게임, 수다떨기입니다👄<br/>
 
 #### 🛠 Skill
 
