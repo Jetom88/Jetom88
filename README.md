@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:c2e9fb&height=250&section=header&text=Hyeri%20Shin&fontColor=4c4c4c&fontSize=60&fontAlignY=43) 
 
-<div>
+<div align="center">
 
 ###### 👋 Hello I'm front-end developer
   
   
 <br/>
+  
+  
 
 #### 🛠 Skill
 
@@ -15,11 +17,5 @@
 #### 🐣 About me
   
 <a href="https://velog.io/@jetom" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat&logo=GitHub Sponsors&logoColor=white"/></a> <a href="mailto:jetom.shin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/> <a href="https://velog.io/@jetom" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/></a>
-  
-</div>
-
-<div>
-  
-  
   
 </div>
