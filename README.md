@@ -20,6 +20,6 @@
   
 #### 🐣 About me
   
-<a href="https://velog.io/@jetom" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat&logo=GitHub Sponsors&logoColor=white"/></a> <a href="mailto:jetom.shin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/> <a href="https://observant-polish-f4d.notion.site/Hyeri-Shin-a3df75b1fb60487e8bf0bd28557ef2c9" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/></a>
+<a href="https://velog.io/@jetom" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat&logo=GitHub Sponsors&logoColor=white"/></a> <a href="mailto:jetom.shin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/> <a href="https://observant-polish-f4d.notion.site/a3df75b1fb60487e8bf0bd28557ef2c9" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/></a>
   
 </div>
