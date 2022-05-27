@@ -16,10 +16,10 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white"/> <img src="https://img.shields.io/badge/XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white"/> <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=Sublime Text&logoColor=white"/>
    
-  
+
   
 #### 🐣 About me
   
-<a href="https://velog.io/@jetom" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat&logo=GitHub Sponsors&logoColor=white"/></a> <a href="mailto:jetom.shin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/> <a href="https://observant-polish-f4d.notion.site/a3df75b1fb60487e8bf0bd28557ef2c9" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/></a>
+<a href="https://velog.io/@jetom" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat&logo=GitHub Sponsors&logoColor=white"/></a> <a href="mailto:jetom.shin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/> <a href="https://observant-polish-f4d.notion.site/f19ca0a238554d5c8df76a759a7b15ae" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/></a>
   
 </div>
