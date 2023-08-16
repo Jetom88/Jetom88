@@ -23,6 +23,6 @@
   
 <a href="https://velog.io/@jetom" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat&logo=GitHub Sponsors&logoColor=white"/></a> <a href="mailto:jetom.shin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/> <a href="https://observant-polish-f4d.notion.site/f19ca0a238554d5c8df76a759a7b15ae" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jetom)](https://github.com/jetom/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jetom)](https://velog-readme-stats.vercel.app/api/redirect?name=jetom)
 </div>
 
